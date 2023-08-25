@@ -1,7 +1,7 @@
-# Web_Scraping_Project
+# Web_Scraping_Project in python
 This web scraping project is used to collect the data of world countries, population and other data
 
-# World Population Data Scraper and Analyzer
+# World Population Data Scraper
 
 This repository contains a Python script that uses web scraping techniques to extract population data from the Worldometer website. The script fetches the latest population statistics by country and stores the information in a tabular format using the Pandas library. The collected data can be saved in both CSV and Excel file formats for further analysis.
 
